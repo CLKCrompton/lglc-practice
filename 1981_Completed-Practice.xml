@@ -368,7 +368,7 @@
             <!-- needs unique ID --><persName sameAs="">Alain Emmanuel Dreuilhe</persName>, <title
               level="a">“Le cancer gai”</title> (medical column), <title level="j"
               corresp="periodicals.xml#p175">Le Berdache</title>, no. 24 (1981), <seg
-              corresp="#n81.273">p. 23</seg></bibl>
+              >p. 23</seg><!-- CC: the @corresp needs to go back into this seg --></bibl>
 
 
         </event>
