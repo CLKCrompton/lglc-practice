@@ -18,6 +18,13 @@
           </persName>
         </editor>
         <respStmt>
+          <resp>Prepared by</resp>
+          <persName sameAs="people.xml#">
+            <forename>Caitlin</forename>
+            <surname>Voth</surname>
+          </persName>
+        </respStmt>
+        <respStmt>
           <resp>Encoded by</resp>
           <persName sameAs="people.xml#">
             <forename>Candice</forename>
