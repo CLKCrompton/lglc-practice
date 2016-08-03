@@ -74,7 +74,7 @@
               d’aujourd’hui</title>, a one-hour-and-forty-five-minute video made for lesbians only
             and surveying the state of lesbian life in Montréal, was released by
               <!-- CV need to make an org for this --><orgName>Video Amazone</orgName>. </p>
-          <bibl><title level="a">“Amazones d’hiere, lesbiennes d’aujourd’hui,”</title>
+          <bibl><title level="a">“Amazones d’hier, lesbiennes d’aujourd’hui,”</title>
             <title level="j" corresp="periodicals.xml#p175">Le Berdache</title>, no. 25 (1981), <seg
               corresp="#n81.1">p. 8</seg></bibl>
           <bibl>
@@ -367,8 +367,8 @@
           <bibl>
             <!-- needs unique ID --><persName sameAs="">Alain Emmanuel Dreuilhe</persName>, <title
               level="a">“Le cancer gai”</title> (medical column), <title level="j"
-              corresp="periodicals.xml#p175">Le Berdache</title>, no. 24 (1981), <seg
-              corresp="#n81.273">p. 23</seg></bibl>
+              corresp="periodicals.xml#p175">Le Berdache</title>, no. 24 (1981), <seg corresp="#n81.273"
+              >p. 23</seg></bibl>
 
 
         </event>
