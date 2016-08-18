@@ -253,7 +253,7 @@
             <placeName corresp="places.xml#VAN">Vancouver</placeName> More than 500 women
             participated in the fifth Bi-national Lesbian Conference, held at <placeName
               corresp="places.xml#LAN">Langara College</placeName>. The event drew women from across
-            Canada to discuss priorities such as childcare, fighting the Right, and the formation of
+            <placeName corresp="places.xml#CAN"></placeName>Canada to discuss priorities such as childcare, fighting the Right, and the formation of
             a national lesbian organization. There were plenary sessions, workshops, an art display
             (“Woman to Woman,” at the Women in Focus Gallery), and a dance featuring the lesbian
             rock band <orgName corresp="organizations.xml#MQII">Mama Quilla II</orgName> (with
@@ -308,12 +308,13 @@
         <event xml:id="n81.223">
           <p>
             <date when="1981-06-05">June 5</date>
-            <placeName corresp="places.xml#ATL">Atlanta</placeName>, Ga. The <orgName corresp="organizations.xml#CDC">Centers for
-              Disease Control</orgName> (CDC) reported that five gay men in <placeName
-              corresp="places.xml#LOS">Los Angeles</placeName> had been diagnosed with pneumocystis
-            pneumonia, which was rare and frequently fatal. This was the first official report from
-            the CDC concerning the health crisis that would later become known as the AIDS pandemic.
-            (See also <seg corresp="#n81.273">July 3, 1981</seg>.) </p>
+            <placeName corresp="places.xml#ATL">Atlanta</placeName>, Ga. The <orgName
+              corresp="organizations.xml#CDC">Centers for Disease Control</orgName> (CDC) reported
+            that five gay men in <placeName corresp="places.xml#LOS">Los Angeles</placeName> had
+            been diagnosed with pneumocystis pneumonia, which was rare and frequently fatal. This
+            was the first official report from the CDC concerning the health crisis that would later
+            become known as the AIDS pandemic. (See also <seg corresp="#n81.273">July 3,
+            1981</seg>.) </p>
           <bibl><persName corresp="people.xml#BLEW">Bill Lewis</persName> and <persName
               corresp="people.xml#RCOA">Randy Coates</persName>, "Moral Lessons"</bibl>
           <bibl> "Fatal Cancer,” <title level="j" corresp="periodicals.xml#p10">Body
@@ -333,12 +334,19 @@
               level="a">Rare Cancer Seen in 41 Homosexuals</title>,” which was subsequently
             distributed internationally by the New York Times News Service. This was the first major
             mainstream newspaper article to discuss the health crisis that would eventually become
-            known as the AIDS pandemic. An unnamed <title level="j" corresp="periodicals.xml#p10">Body Politic</title> reporter (likely <persName corresp="people.xml#RCOA">Randy Coates</persName> and/or
-            <persName corresp="people.xml#BLEW">Bill Lewis</persName>) dismissed the report as being biased and riddled with errors. </p>
-          <bibl><persName corresp="people.xml#LALT">Lawrence K. Altman</persName>, “<title level="a">Rare Cancer Seen in 41 Homosexuals</title>,” <title level="j" corresp="periodicals.xml#p147">New York Times</title>, late city
-            ed., 3 July 1981, <seg corresp="#n81.273">p. A20</seg></bibl>
-          <bibl> <persName corresp="people.xml#ADRE">Alain Emmanuel Dreuilhe</persName>, “<title level="a">Le cancer gai</title>” (medical column), <title level="j" corresp="periodicals.xml#p175">Le Berdache</title>, no. 24
-            (1981), <seg corresp="#n81.273">p. 23</seg></bibl>
+            known as the AIDS pandemic. An unnamed <title level="j" corresp="periodicals.xml#p10"
+              >Body Politic</title> reporter (likely <persName corresp="people.xml#RCOA">Randy
+              Coates</persName> and/or <persName corresp="people.xml#BLEW">Bill Lewis</persName>)
+            dismissed the report as being biased and riddled with errors. </p>
+          <bibl><persName corresp="people.xml#LALT">Lawrence K. Altman</persName>, “<title level="a"
+              >Rare Cancer Seen in 41 Homosexuals</title>,” <title level="j"
+              corresp="periodicals.xml#p147">New York Times</title>, late city ed., 3 July 1981,
+              <seg corresp="#n81.273">p. A20</seg></bibl>
+          <bibl>
+            <persName corresp="people.xml#ADRE">Alain Emmanuel Dreuilhe</persName>, “<title
+              level="a">Le cancer gai</title>” (medical column), <title level="j"
+              corresp="periodicals.xml#p175">Le Berdache</title>, no. 24 (1981), <seg
+              corresp="#n81.273">p. 23</seg></bibl>
 
 
         </event>
