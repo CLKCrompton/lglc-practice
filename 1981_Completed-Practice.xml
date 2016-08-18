@@ -67,6 +67,7 @@
   <text>
     <body>
       <listEvent n="1981">
+        <!-- CC: Thank heavens for subversion repositories -->
         <event xml:id="n81.1">
           <p>
             <date when="1981"/>
