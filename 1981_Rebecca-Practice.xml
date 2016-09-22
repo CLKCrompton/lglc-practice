@@ -228,14 +228,14 @@
               Spurn, Back Homosexuals</title>,” <title level="j" corresp="periodicals.xmlp112"
               >Toronto Star</title>, four star ed., 24 February 1981, <seg corresp="#n81.72">pp. A1,
               A7</seg>.</bibl>
-          <!-- This is a test for Git -->
+          
         </event>
         <event xml:id="n81.128">
           <p> Spring <placeName corresp="places.xml#HAL">Halifax</placeName> The first issue of
-            Making Waves: An Atlantic Quarterly for Lesbians and Gay Men was published. Robin
-            Metcalfe edited the magazine. </p>
-          <bibl>Arn Gabel, “<title level="a">Make Way for Making Waves</title>,” Body Politic, no.
-            70 (1981), p. 12</bibl>
+            <title level="a">Making Waves: An Atlantic Quarterly for Lesbians and Gay Men</title> was published. <persName sameAs="people.xml#RMET">Robin
+              Metcalfe</persName> edited the magazine. </p> 
+          <bibl>Arn Gabel, “<title level="a">Make Way for Making Waves</title>,” <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no.
+            70 (1981), <seg corresp="#n81.128">p. 12</seg></bibl>
           <bibl> Robin Metcalfe, “Making Waves in Atlantic Canada,” Body Politic, no. 74 (1981), p.
             17</bibl>
           <bibl> “New: Making Waves,” Fredericton FLAGMAG, no. 4 (1981), p. 7.</bibl>
